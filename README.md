@@ -20,6 +20,8 @@
 |   |   |      └── update-user.dto.ts
 │   │   ├── guards/
 |   |   |      └── roles.guard.ts
+│   │   ├── repositories/
+|   |   |      └── users.repositories.ts
 │   │   ├── schemas/
 |   |   |      └── user.schema.ts
 │   │   └── services/
